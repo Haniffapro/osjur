@@ -1,1 +1,1 @@
-print("Halo UIN Sunan Kalijaga"
+print("Halo UIN Sunan Kalijaga")
